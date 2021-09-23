@@ -1,0 +1,17 @@
+{
+  "name": "everlyhealth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@testing-library/cypress": "^8.0.1",
+    "cypress": "^8.4.1",
+    "cypress-xpath": "^1.6.2",
+    "mochawesome": "^6.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jyotsna Javvaji",
+  "license": "ISC",
+  "description": ""
+}
